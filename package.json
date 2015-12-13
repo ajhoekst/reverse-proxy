@@ -1,0 +1,19 @@
+{
+  "name": "ajhoekst-reverseproxy",
+  "version": "0.0.1",
+  "description": "Reverse proxy for Andrew Hoekstra's websites",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Andrew Hoekstra",
+    "email": "connect@andrewhoekstra.com",
+    "url": "andrewhoekstra.com"
+  },
+  "license": "GPL-3.0",
+  "repository": "ajhoekst/reverseproxy",
+  "dependencies": {
+    "http-proxy": "^1.12.0"
+  }
+}
